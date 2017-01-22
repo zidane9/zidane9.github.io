@@ -17,3 +17,7 @@ Tags and Syntaxes learned :
 
 ## About Me
 I'm just a person who wants to learn JavaScript.
+
+## Future Plans
+1. Mastering JavaScript
+2. Became a JavaScript Programmer
