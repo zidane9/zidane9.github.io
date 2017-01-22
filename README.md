@@ -14,3 +14,6 @@ Tags and Syntaxes learned :
 * color
 * font-size
 * background
+
+## About Me
+I'm just a person who wants to learn JavaScript.
